@@ -1,8 +1,7 @@
 name: flutter_excle
 description: A new Flutter plugin.
 version: 0.0.1
-author: fei wang <luhenchang1314@gmail.com>
-homepage: https://github.com/luhenchang/luhenchang_plugin
+homepage: https://github.com/luhenchang/flutter_excle.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
